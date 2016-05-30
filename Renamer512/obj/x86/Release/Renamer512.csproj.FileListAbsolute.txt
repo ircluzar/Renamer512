@@ -1,0 +1,16 @@
+X:\Tools\ext-renamer512\Renamer512\Renamer512\bin\Release\Renamer512.exe
+X:\Tools\ext-renamer512\Renamer512\Renamer512\bin\Release\Renamer512.pdb
+X:\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Release\Renamer512.MainForm.resources
+X:\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Release\Renamer512.Properties.Resources.resources
+X:\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Release\Renamer512.csproj.GenerateResource.Cache
+X:\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Release\Renamer512.exe
+X:\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Release\Renamer512.pdb
+X:\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Release\Renamer512.csprojResolveAssemblyReference.cache
+C:\Users\philt\Desktop\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Release\Renamer512.exe
+C:\Users\philt\Desktop\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Release\Renamer512.pdb
+C:\Users\philt\Desktop\Tools\ext-renamer512\Renamer512\Renamer512\bin\Release\Renamer512.exe
+C:\Users\philt\Desktop\Tools\ext-renamer512\Renamer512\Renamer512\bin\Release\Renamer512.pdb
+C:\Users\philt\Desktop\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Release\Renamer512.csprojResolveAssemblyReference.cache
+C:\Users\philt\Desktop\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Release\Renamer512.MainForm.resources
+C:\Users\philt\Desktop\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Release\Renamer512.Properties.Resources.resources
+C:\Users\philt\Desktop\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Release\Renamer512.csproj.GenerateResource.Cache

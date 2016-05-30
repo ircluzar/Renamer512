@@ -1,0 +1,21 @@
+c:\users\philippe\documents\visual studio 2010\Projects\Renamer512\Renamer512\bin\Debug\Renamer512.exe
+c:\users\philippe\documents\visual studio 2010\Projects\Renamer512\Renamer512\bin\Debug\Renamer512.pdb
+c:\users\philippe\documents\visual studio 2010\Projects\Renamer512\Renamer512\obj\x86\Debug\Renamer512.Form1.resources
+c:\users\philippe\documents\visual studio 2010\Projects\Renamer512\Renamer512\obj\x86\Debug\Renamer512.Properties.Resources.resources
+c:\users\philippe\documents\visual studio 2010\Projects\Renamer512\Renamer512\obj\x86\Debug\Renamer512.csproj.GenerateResource.Cache
+c:\users\philippe\documents\visual studio 2010\Projects\Renamer512\Renamer512\obj\x86\Debug\Renamer512.exe
+c:\users\philippe\documents\visual studio 2010\Projects\Renamer512\Renamer512\obj\x86\Debug\Renamer512.pdb
+X:\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Debug\Renamer512.exe
+X:\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Debug\Renamer512.pdb
+X:\Tools\ext-renamer512\Renamer512\Renamer512\bin\Debug\Renamer512.exe
+X:\Tools\ext-renamer512\Renamer512\Renamer512\bin\Debug\Renamer512.pdb
+X:\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Debug\Renamer512.Properties.Resources.resources
+X:\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Debug\Renamer512.csproj.GenerateResource.Cache
+X:\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Debug\Renamer512.MainForm.resources
+C:\Users\philt\Desktop\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Debug\Renamer512.exe
+C:\Users\philt\Desktop\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Debug\Renamer512.pdb
+C:\Users\philt\Desktop\Tools\ext-renamer512\Renamer512\Renamer512\bin\Debug\Renamer512.exe
+C:\Users\philt\Desktop\Tools\ext-renamer512\Renamer512\Renamer512\bin\Debug\Renamer512.pdb
+C:\Users\philt\Desktop\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Debug\Renamer512.MainForm.resources
+C:\Users\philt\Desktop\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Debug\Renamer512.Properties.Resources.resources
+C:\Users\philt\Desktop\Tools\ext-renamer512\Renamer512\Renamer512\obj\x86\Debug\Renamer512.csproj.GenerateResource.Cache
